@@ -56,7 +56,7 @@ Tab = small menu
 Esc = Settings
 
 <img width="470" height="461" alt="Screenshot 2025-11-03 202454" src="https://github.com/user-attachments/assets/0087e9d4-3f17-44d2-93c6-a5f93d5527c3" />
-<img width="470" height="461" alt="Screenshot 2025-11-03 204119" src="https://github.com/user-attachments/assets/25a99821-0dfc-4bc2-9c08-c22a10fb258a" />
+<img width="470" height="391" alt="Screenshot 2025-11-03 204119" src="https://github.com/user-attachments/assets/25a99821-0dfc-4bc2-9c08-c22a10fb258a" />
 
 # Game features
 There isn’t really a full game yet to be honest but there are a few features you can try out:
@@ -109,7 +109,7 @@ Red means you can’t afford it.
 
 In the Settings menu pressing "SFT Leave" will return you to the Main Menu.
 
-<img width="400" height="1085" alt="Screenshot 2025-11-04 190915" src="https://github.com/user-attachments/assets/56e6fcd8-6a20-4c8b-bf9f-7e0b2b5f9625" />
+<img width="400" height="465" alt="Screenshot 2025-11-04 190915" src="https://github.com/user-attachments/assets/56e6fcd8-6a20-4c8b-bf9f-7e0b2b5f9625" />
 
 # Disclaimer
 This project is mostly for fun and learning don’t expect anything polished.
